@@ -1,7 +1,7 @@
 Portfolio Website
  Live Demo: hariprabhakaran45.github.io
 
-A modern, responsive portfolio website showcasing my skills, projects, and blog as a Full-Stack Developer and SAP ABAP Consultant.
+A modern, responsive portfolio website showcasing my skills, projects, and blog as a Python Developer and SAP ABAP Consultant.
 
  Features
 Responsive Design - Works perfectly on desktop, tablet, and mobile devices
